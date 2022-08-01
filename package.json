@@ -1,0 +1,24 @@
+{
+  "name": "firsapp",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshulRai/node_firstapp.git"
+  },
+  "author": "Harshul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshulRai/node_firstapp/issues"
+  },
+  "homepage": "https://github.com/HarshulRai/node_firstapp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
